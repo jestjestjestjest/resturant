@@ -1,0 +1,22 @@
+/* Add your custom styles here */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.head{
+    font-size: 6rem;
+}
+.button{
+    color: aliceblue;
+    background-color: rgb(11, 89, 233);
+}
+.carousel{margin-left: 14rem;}
